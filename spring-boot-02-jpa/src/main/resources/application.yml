@@ -1,0 +1,21 @@
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/jpa?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      #更新或创建数据表结构
+      ddl-auto: update
+    #显示sql语句在控制台
+    show-sql: true
+  #thymeleaf配置
+  thymeleaf:
+    #开发环境关闭thymeleaf缓存
+    cache: false

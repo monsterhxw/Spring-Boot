@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>UserList</title>
+    <script type="text/javascript" th:src="@{/webjars/jquery/3.3.1-1/jquery.min.js}"></script>
+</head>
+<body>
+<div style="text-align:center">
+    <h3><a th:href="@{/user}">员工添加</a></h3>
+    <table border="1" cellpadding="3" cellspacing="0" style="width: 60%;margin:auto">
+
+        <thead>用户列表</thead>
+        <thead>
+        <tr>
+            <th>姓氏</th>
+            <th>邮箱</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="user : ${users}">
+            <td th:text="${user.lastName}"></td>
+            <td th:text="${user.email}"></td>
+            <td>
+                <a th:href="@{/user/}+${user.id}">编辑</a>
+                <button th:attr="del_uri=@{/user/}+${user.id}" class="deleteBtn">删除</button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <form id="deleteUserForm" method="post">
+        <input type="hidden" name="_method" value="delete"/>
+    </form>
+</div>
+<script>
+    $(".deleteBtn").click(function () {
+        //删除当前员工的
+        $("#deleteUserForm").attr("action", $(this).attr("del_uri")).submit();
+        return false;
+    });
+</script>
+</body>
+</html>
