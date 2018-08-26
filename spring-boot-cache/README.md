@@ -5,6 +5,7 @@ Spring Boot + Spring Cache + Spring Data JPA + Gradle + Swagger2 + RESTful + MyS
 二、如果entity包中报错，请下载Lombok插件，然后重启IDEA
 
 三、本项目是Spring Boot 的 Spring缓存抽象的个人练习项目
+
     1)Spring缓存抽象主要核心是：
         1、CacheManager : 缓存管理器，管理各种缓存(Cache)组件
         2、Cache : 缓存接口，定义缓存的操作，实现有：ConcurrentMapCahe(本项目采用)、RedisCache、EnCacheCache等
