@@ -1,0 +1,18 @@
+spring:
+  http:
+    encoding:
+      force: true
+      enabled: true
+      charset: UTF-8
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/cache?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+logging:
+  level:
+    root: info
