@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+//如果为true，每个message和service都会被生成为一个类。
+//如果是false，则所有的message和service都将会是java_outer_classname的内部类
+option java_multiple_files = true;
+
+//定义输出的目录，生成的目录就是“com/hxw/grpclib/protobuf”下面
+option java_package = "com.hxw.grpclib.protobuf";
+
+//定义输出的文件名称，生成在protobuf下的就是GrpcService.class
+option java_outer_classname = "GrpcService";
+
+//The greeting service definition.
+//定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现
+service Simple {
+    //定义接口的方法
+    rpc SayHello (HelloRequest) returns (HelloReply) {
+    }
+}
+
+//请求参数
+message HelloRequest {
+    string name = 1;
+}
+
+//返回结果
+message HelloReply{
+    string message=1;
+}

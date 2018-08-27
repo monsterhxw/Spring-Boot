@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7640f2db-3eae-4d03-b3f9-e58d11099ac7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../SpringBootTest/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootTest/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootTest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-gRPC/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-gRPC/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-gRPC/out/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-lib/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-lib/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-lib/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-client/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-grpc-client/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/spring-boot-gRPC">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/spring-boot-grpc-client">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/spring-boot-grpc-lib">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/spring-boot-gRPC">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-client" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-client" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-client" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-client" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-client" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-client" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-client" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-client" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-client" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name="spring-boot-grpc-server" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-grpc-lib" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-grpc-lib" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-grpc-lib" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-grpc-server" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-grpc-lib" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SpringBootGrpcApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/SpringBootGrpcApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrpcServerService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/GrpcServerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloReplyOrBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/HelloReplyOrBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrpcService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/GrpcService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-277">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrpcClientController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/controller/GrpcClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrpcClientService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/GrpcClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helloworld.proto" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/proto/helloworld.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.9/libexec" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC" value="/usr/local/Cellar/gradle/4.9/libexec" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client" value="/usr/local/Cellar/gradle/4.9/libexec" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.9" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC" value="4.9" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client" value="4.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spring-boot-grpc" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spring-boot-grpc" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spring-boot-grpc-client" />
+              <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spring-boot-grpc-client" />
+                <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":spring-boot-grpc-lib" />
+                <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-lib" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spring-boot-grpc-server" />
+              <option name="path" value="$PROJECT_DIR$/spring-boot-gRPC" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spring-boot-grpc-server" />
+                <option name="path" value="$PROJECT_DIR$/spring-boot-gRPC" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":spring-boot-grpc-lib" />
+                <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-lib" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'spring-boot-grpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'spring-boot-grpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'spring-boot-grpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'spring-boot-grpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="extractIncludeTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="extractIncludeProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="extractProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'spring-boot-grpc-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'spring-boot-grpc-server' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'test'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="generateTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'spring-boot-grpc-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'spring-boot-grpc-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'main'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="generateProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="extractTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'spring-boot-grpc-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'spring-boot-grpc-client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'spring-boot-grpc-client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="extractIncludeTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="extractIncludeProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="extractProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'main'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="generateProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'spring-boot-grpc-client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'spring-boot-grpc-client' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'test'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="generateTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="extractTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'spring-boot-grpc-client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-lib">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':spring-boot-grpc-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':spring-boot-grpc-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:extractIncludeTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files from compile dependencies for includes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:extractIncludeProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:extractProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'main'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:generateProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':spring-boot-grpc-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Proto source for 'test'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:generateTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Extracts proto files/dependencies specified by 'protobuf' configuration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:extractTestProto" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':spring-boot-grpc-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                <option name="name" value=":spring-boot-grpc-lib:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4606038961000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1747249764" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="297989160" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC" value="9212098080000" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC/build.gradle" value="942673467" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC/settings.gradle" value="893000973" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client" value="9212117871000" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client/build.gradle" value="2407978524" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client/settings.gradle" value="964597811" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-lib" value="4606049499000" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-lib/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-lib/build.gradle" value="4046221943" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-lib/settings.gradle" value="3958639108" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="spring-boot-grpc" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-launcher-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-option-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-cli-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-docs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-launcher-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-logging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-messaging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-process-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-resources-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-wrapper-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/spring-boot-gRPC">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/b18a052691327096ba583b11d5fc052123500db3/spring-boot-gradle-plugin-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/24a1d9eac0090e12d20678cfbf7299d81d63ea7/spring-boot-loader-tools-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-gRPC" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/spring-boot-grpc-lib">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/b18a052691327096ba583b11d5fc052123500db3/spring-boot-gradle-plugin-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/24a1d9eac0090e12d20678cfbf7299d81d63ea7/spring-boot-loader-tools-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-gradle-plugin/0.8.5/5ff95a6dc5c75f995b41ce225bd947c191e924c1/protobuf-gradle-plugin-0.8.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gradle/osdetector-gradle-plugin/1.4.0/a6bfa3b8bc6b15b8df90893876782dab3096b68f/osdetector-gradle-plugin-1.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/kr.motd.maven/os-maven-plugin/1.4.0.Final/fb2ecdce79f677ee32680bf825c26de480fe46b/os-maven-plugin-1.4.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-api/3.2.1/305cea4e9a89b12c08008fea079fcea2dda34eca/maven-plugin-api-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.0.17/7b86f7a4ceffc8eadbb1a84207134af776f7cb95/plexus-utils-3.0.17.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-model/3.2.1/328a3c5cfaf9b2832e6e1d21c76fcefe01e01fde/maven-model-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.2.1/227e0c0d3b9b25dd9fce0a74b88ec212026a0fe2/maven-artifact-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.plexus/0.0.0.M5/8818cc5a4d2afde2fbc87c2a78cf1ebf5719a869/org.eclipse.sisu.plexus-0.0.0.M5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.0/44c453f60909dfc223552ace63e05c694215156b/cdi-api-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-guice/3.1.0/97c87d15d749c86b2be1b9809b28321a1d926c7f/sisu-guice-3.1.0-no_aop.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.inject/0.0.0.M5/4f6bda3f528c60a12e70db2e7a3feee539dcc8cd/org.eclipse.sisu.inject-0.0.0.M5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-component-annotations/1.5.5/c72f2660d0cbed24246ddb55d7fdc4f7374d2078/plexus-component-annotations-1.5.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/2.4/ef38ff5c25f83a4a02fcd9843d85f3e47012873e/plexus-classworlds-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-lib" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="spring-boot-grpc-server" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-launcher-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-option-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-cli-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-docs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-launcher-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-logging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-messaging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-process-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-resources-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-wrapper-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/spring-boot-gRPC/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/spring-boot-gRPC/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/spring-boot-grpc-client">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/b18a052691327096ba583b11d5fc052123500db3/spring-boot-gradle-plugin-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/24a1d9eac0090e12d20678cfbf7299d81d63ea7/spring-boot-loader-tools-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-client" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/spring-boot-grpc-lib">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/b18a052691327096ba583b11d5fc052123500db3/spring-boot-gradle-plugin-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/24a1d9eac0090e12d20678cfbf7299d81d63ea7/spring-boot-loader-tools-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-gradle-plugin/0.8.5/5ff95a6dc5c75f995b41ce225bd947c191e924c1/protobuf-gradle-plugin-0.8.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gradle/osdetector-gradle-plugin/1.4.0/a6bfa3b8bc6b15b8df90893876782dab3096b68f/osdetector-gradle-plugin-1.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/kr.motd.maven/os-maven-plugin/1.4.0.Final/fb2ecdce79f677ee32680bf825c26de480fe46b/os-maven-plugin-1.4.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-api/3.2.1/305cea4e9a89b12c08008fea079fcea2dda34eca/maven-plugin-api-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.0.17/7b86f7a4ceffc8eadbb1a84207134af776f7cb95/plexus-utils-3.0.17.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-model/3.2.1/328a3c5cfaf9b2832e6e1d21c76fcefe01e01fde/maven-model-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.2.1/227e0c0d3b9b25dd9fce0a74b88ec212026a0fe2/maven-artifact-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.plexus/0.0.0.M5/8818cc5a4d2afde2fbc87c2a78cf1ebf5719a869/org.eclipse.sisu.plexus-0.0.0.M5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.0/44c453f60909dfc223552ace63e05c694215156b/cdi-api-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu/sisu-guice/3.1.0/97c87d15d749c86b2be1b9809b28321a1d926c7f/sisu-guice-3.1.0-no_aop.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.inject/0.0.0.M5/4f6bda3f528c60a12e70db2e7a3feee539dcc8cd/org.eclipse.sisu.inject-0.0.0.M5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-component-annotations/1.5.5/c72f2660d0cbed24246ddb55d7fdc4f7374d2078/plexus-component-annotations-1.5.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/2.4/ef38ff5c25f83a4a02fcd9843d85f3e47012873e/plexus-classworlds-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-grpc-lib" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="spring-boot-grpc-client" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/ant-launcher-1.9.11.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-build-option-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-cli-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-docs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-launcher-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-logging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-messaging-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-core-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-process-services-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-resources-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/gradle-wrapper-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.9/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/spring-boot-grpc-client/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/spring-boot-grpc-client/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../DFQYPROJECT/kakarot-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kakarot-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/spring-boot-gRPC" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/spring-boot-grpc-client" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-grpc-lib/src/main/proto/helloworld.proto" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-gRPC/settings.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-lib/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-gRPC/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/GrpcServerService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-gRPC/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-client/settings.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-client/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/GrpcClientService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/controller/GrpcClientController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-grpc-lib/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1472" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-gRPC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpcclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpclib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpclib" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpclib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hxw" type="462c0819:PsiDirectoryNode" />
+              <item name="grpclib" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-grpc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot-grpc-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_RUNTIME_PATCH_Enabled" value="false" />
+    <property name="LombokPluginIS_THIRD_PARTY_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootGrpcClientApplication">
+    <configuration name="SpringBootGrpcApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxw.grpc.SpringBootGrpcApplication" />
+      <module name="spring-boot-grpc-server_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxw.grpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringBootGrpcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-grpc_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxw.grpc.SpringBootGrpcApplication" />
+    </configuration>
+    <configuration name="SpringBootGrpcClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-grpc-client_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxw.grpcclient.SpringBootGrpcClientApplication" />
+    </configuration>
+    <configuration name="SpringBootGrpcLibApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-grpc-lib_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxw.grpclib.SpringBootGrpcLibApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootGrpcApplication" />
+      <item itemvalue="Spring Boot.SpringBootGrpcLibApplication" />
+      <item itemvalue="Spring Boot.SpringBootGrpcClientApplication" />
+      <item itemvalue="Application.SpringBootGrpcApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootGrpcApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7640f2db-3eae-4d03-b3f9-e58d11099ac7" name="Default" comment="" />
+      <created>1535338371757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535338371757</updated>
+      <workItem from="1535338375939" duration="2765000" />
+      <workItem from="1535342601379" duration="5442000" />
+      <workItem from="1535351332119" duration="3618000" />
+      <workItem from="1535355453702" duration="7042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18867000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501221" side_tool="true" weight="0.22163865" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.498779" weight="0.22163865" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50149703" side_tool="true" visible="true" weight="0.23109691" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32983193" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32983193" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3197556" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32983193" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32983193" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.44957983" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498503" visible="true" weight="0.23109691" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/GrpcServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/proto/helloworld.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/Cellar/gradle/4.9/libexec/lib/gradle-core-api-4.9.jar!/org/gradle/api/artifacts/dsl/DependencyHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/java/com/hxw/grpclib/SpringBootGrpcLibApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/SpringBootGrpcClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/HelloRequestOrBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/HelloReply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/HelloReplyOrBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/GrpcService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/SpringBootGrpcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/controller/GrpcClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-gRPC/src/main/java/com/hxw/grpc/GrpcServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/build/generated/source/proto/main/java/com/hxw/grpclib/protobuf/HelloRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-client/src/main/java/com/hxw/grpcclient/GrpcClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-grpc-lib/src/main/proto/helloworld.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-grpc-client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
