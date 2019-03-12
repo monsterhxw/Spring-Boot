@@ -1,0 +1,8 @@
+databaseChangeLog:
+  - changeSet:
+      id : I1-2019-03-12-002
+      author: huangxuewei
+      changes:
+        - sqlFile:
+            encoding: utf8
+            path: liquibase/book/sql/insert-books.sql

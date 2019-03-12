@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/user/create-user.yml
+  - include:
+      file: liquibase/user/insert-user.yml
+  - include:
+      file: liquibase/user/insert-user-sql.yml

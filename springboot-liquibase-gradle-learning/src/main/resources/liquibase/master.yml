@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/user/user-master.yml
+  - include:
+      file: liquibase/book/book-master.yml

@@ -1,0 +1,8 @@
+databaseChangeLog:
+  - changeSet:
+      id: 3
+      author: vivi
+      changes:
+        - sqlFile:
+            encoding: utf8
+            path: liquibase/user/sql/insert_users.sql

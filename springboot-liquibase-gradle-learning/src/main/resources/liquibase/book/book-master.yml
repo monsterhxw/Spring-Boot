@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/book/insert-book.yml
+  - include:
+      file: liquibase/book/insert-book-sql.yml
+  - include:
+      file: liquibase/book/insert-book-sql-001.yml

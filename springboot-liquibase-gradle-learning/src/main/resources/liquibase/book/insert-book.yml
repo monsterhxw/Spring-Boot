@@ -1,0 +1,14 @@
+databaseChangeLog:
+  - changeSet:
+      id : I1-2019-03-12-001
+      author: huangxuewei
+      changes:
+        - insert:
+            tableName: book
+            columns:
+              - column:
+                  name: name
+                  value: spring boot test book name
+              - column:
+                  name: title
+                  value: spring boot test book title

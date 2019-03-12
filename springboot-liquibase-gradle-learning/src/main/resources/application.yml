@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://localhost:3306/liquibase_test?useSSL=false&rewriteBatchedStatements=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    database: mysql
+    hibernate:
+      ddl-auto: update
+
+  liquibase:
+    change-log: classpath:/liquibase/master.yml
+    user: ${spring.datasource.username}
+    password: ${spring.datasource.password}
+    url: ${spring.datasource.url}
+    enabled: true
+    drop-first: false
