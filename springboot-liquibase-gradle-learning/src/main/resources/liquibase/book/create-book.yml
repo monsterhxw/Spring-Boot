@@ -1,0 +1,21 @@
+databaseChangeLog:
+  - changeSet:
+      id: C1-2019-03-12-001
+      author: huangxuewei
+      changes:
+        - createTable:
+            tableName: book
+            columns:
+              - column:
+                  name: id
+                  type: int
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: name
+                  type: varchar(255)
+              - column:
+                  name: title
+                  type: varchar(255)

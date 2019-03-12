@@ -1,5 +1,7 @@
 databaseChangeLog:
   - include:
+      file: liquibase/book/create-book.yml
+  - include:
       file: liquibase/book/insert-book.yml
   - include:
       file: liquibase/book/insert-book-sql.yml
