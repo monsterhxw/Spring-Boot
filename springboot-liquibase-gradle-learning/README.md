@@ -1,2 +1,2 @@
-### 1、Firstly,the database named "liquibase_test" was created at Mysql.
-### 2、running Application.class.
+### 1、Create DataBase with named "liquibase" at Mysql.
+### 2、Run Application.class.
