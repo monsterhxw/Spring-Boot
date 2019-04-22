@@ -3,4 +3,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'spring-security-oauth2-sample'
+rootProject.name = 'spring-boot-security-oauth2-sample'
