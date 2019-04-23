@@ -1,11 +1,4 @@
-spring-**/src/main/resources/**/application-dev.yml
-spring-**/build/
-spring-**/var/
-/var/
-
-/docker/*.jar
-
-### Gradle ###
+HELP.md
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -17,16 +10,14 @@ spring-**/var/
 .project
 .settings
 .springBeans
+.sts4-cache
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-
-### MISC ###
-.DS_Store⏎
-out/
+/out/
 
 ### NetBeans ###
 /nbproject/private/
