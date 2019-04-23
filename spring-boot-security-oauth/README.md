@@ -26,23 +26,23 @@ Spring Security 是基于 Spring AOP 、Spring DI (IOC)、Servlet 和 Filter 等
 
 **(1) 使用 Intellij IDEA 的 Spring Initializr 快速创建 Spring Boot 项目**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-1d47efd4-a808-4c20-846f-bd979f5554f5.png)
+![](image/Untitled-1d47efd4-a808-4c20-846f-bd979f5554f5.png)
 
 **(2) 项目名为 spring-boot-security-oauth，使用 Gradle 项目自动化建构工具来管理项目**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-b49eeb54-faec-4d5b-89b4-3861a4929965.png)
+![](image/Untitled-b49eeb54-faec-4d5b-89b4-3861a4929965.png)
 
 **(3) 选择所需的 jar 包依赖**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-c70aac94-644b-4a12-a63b-8874116527fe.png)
+![](image/Untitled-c70aac94-644b-4a12-a63b-8874116527fe.png)
 
 **(4) 完成构建项目**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-f5908963-180c-40a1-b7fe-7837c0296c98.png)
+![](image/Untitled-f5908963-180c-40a1-b7fe-7837c0296c98.png)
 
 **(5) 项目的树状图**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-38227deb-aff0-4c8f-b18f-25f67709121b.png)
+![](image/Untitled-38227deb-aff0-4c8f-b18f-25f67709121b.png)
 
 **(6) 项目的依赖 build.gradle 的代码**
 
@@ -95,7 +95,7 @@ Spring Security 是基于 Spring AOP 、Spring DI (IOC)、Servlet 和 Filter 等
 
 **(8) 启动 Application 类，打开浏览器访问地址：http://localhost:8080/hello**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-85fadfe0-2237-4e7f-a9d8-f54801b0625c.png)
+![](image/Untitled-85fadfe0-2237-4e7f-a9d8-f54801b0625c.png)
 
 这时页面却被跳转到地址：**http://localhost:8080/login** 这是因为在Spring Boot 中会默认生效 Spring Security，所以此时的接口都被收到保护，需要我们通过验证才能正常访问。
 
@@ -103,8 +103,8 @@ Spring Security 是基于 Spring AOP 、Spring DI (IOC)、Servlet 和 Filter 等
 
 > Using generated security password: af9b085b-0079-46ee-becd-67bfc62158cd
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-e9eddcb1-dfd7-41b8-84d8-e362b40ba08d.png)
+![](image/Untitled-e9eddcb1-dfd7-41b8-84d8-e362b40ba08d.png)
 
 **(9) 输入用户 user 和密码  af9b085b-0079-46ee-becd-67bfc62158cd ，我们便可以看到输出的字符串 Hello Spring Security。**
 
-![](https://github.com/monsterhxw/Spring-Boot/tree/develop/spring-boot-security-oauth/image/Untitled-38a23a8a-72d8-4e4c-8124-bd49fc0fcb87.png)
+![](image/Untitled-38a23a8a-72d8-4e4c-8124-bd49fc0fcb87.png)
