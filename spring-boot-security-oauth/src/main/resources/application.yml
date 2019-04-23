@@ -1,5 +1,21 @@
-#spring:
-#  security:
-#    user:
-#      name: admin
-#      password: admin
+spring:
+  datasource:
+    name: security-oauth
+    url: jdbc:mysql://localhost:3306/test_security?useSSL=false&rewriteBatchedStatements=true&useUnicode=yes&characterEncoding=UTF-8
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    properties:
+      hibernate.jdbc.batch_size: 5000
+      hibernate.order_inserts: true
+      hibernate.order_updates: true
+      hibernate.jdbc.batch_versioned_data: true
+      # namespace: husky-session
+  thymeleaf:
+    cache: false
